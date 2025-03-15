@@ -61,10 +61,6 @@ This method ensures **secure and private communication**, making it useful for *
 - Only users with **SecureView installed** can decode hidden messages.  
 - Messages are **fully encrypted** before embedding into images.  
 
-⚠ **Limitations:**  
-- Modifying the image **after embedding** (e.g., cropping, compressing) may destroy the hidden message.  
-- Large messages may slightly affect image quality.  
-
 ---
 ## **Video Link**  
 https://drive.google.com/file/d/1EM7pYYUXpUAlTcQWSmSMxG3q5ORV6yzY/view?usp=drive_link  
