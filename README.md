@@ -66,10 +66,5 @@ This method ensures **secure and private communication**, making it useful for *
 - Large messages may slightly affect image quality.  
 
 ---
-
-## **License**  
-SecureView is an open-source project licensed under the [MIT License](LICENSE).  
-
----
 ## **Video Link**  
 https://drive.google.com/file/d/1EM7pYYUXpUAlTcQWSmSMxG3q5ORV6yzY/view?usp=drive_link  
